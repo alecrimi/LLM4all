@@ -107,12 +107,12 @@ Pretraining
 
 ## Neuroscience papers
 
-- [HippoRag] (https://arxiv.org/abs/2405.14831) - Neurobiologically Inspired Long-Term Memory for Large Language Models
+- [HippoRag](https://arxiv.org/abs/2405.14831) - Neurobiologically Inspired Long-Term Memory for Large Language Models
 Bernal Jiménez Gutiérrez, Yiheng Shu, Yu Gu, Michihiro Yasunaga, Yu Su
-- [TopoLM] (https://arxiv.org/abs/2410.11516) -  brain-like spatio-functional organization in a topographic language model
+- [TopoLM](https://arxiv.org/abs/2410.11516) -  brain-like spatio-functional organization in a topographic language model
 Neil Rathi, Johannes Mehrer, Badr AlKhamissi, Taha Binhuraib, Nicholas M. Blauch, Martin Schrimpf
-- [LLM and language neuroscience] (https://arxiv.org/abs/2410.00812) - A generative framework to bridge data-driven models and scientific theories in language neuroscience Richard Antonello, Chandan Singh, Shailee Jain, Aliyah Hsu, Jianfeng Gao, Bin Yu, Alexander Huth
-- [Language in Brains, Minds, and Machines] (https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-120623-101142) 
+- [LLM and language neuroscience](https://arxiv.org/abs/2410.00812) - A generative framework to bridge data-driven models and scientific theories in language neuroscience Richard Antonello, Chandan Singh, Shailee Jain, Aliyah Hsu, Jianfeng Gao, Bin Yu, Alexander Huth
+- [Language in Brains, Minds, and Machines](https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-120623-101142) 
 Greta Tuckute, Nancy Kanwisher, and Evelina Fedorenko
 
 -----------------
