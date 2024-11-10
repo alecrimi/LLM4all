@@ -97,18 +97,12 @@ Pretraining
 
 ## Agents
 
-Library
 - [OpenAI Swarms](https://www.crewai.com/open-source) - OpenAI educational project about deploying agents
 - [CrewAI](https://www.crewai.com/open-source) -  Build and deploy automated workflows using any LLM and cloud platform. 
 - [Agency Swarm](https://github.com/VRSEN/agency-swarm) - Alternative implementation of swarming AI agents.
- 
-Projects
-
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open source agents for developers by [AllHands](https://www.all-hands.dev/).
 - [CAMEL](https://github.com/camel-ai/camel) - First LLM multi-agent framework and an open-source community dedicated to finding the scaling law of agents. by [CAMEL-AI](https://www.camel-ai.org/).
-- [swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [AutoGen](https://github.com/microsoft/autogen) - A programming framework for agentic AI by Microsoft.
-
 
 ## Neuroscience papers
 
