@@ -3,7 +3,7 @@
 Nowaydays you cannot live without Large Language Models(LLM).
 Innovations about this are popping up on a weekly or even daily basis. As it is hard to follow everything, I made this list covering many links, from tutorial, resources, code for fine-tuning, RAG, compressions, and other things 🤖🤖🤖. I might keep updating it if novel tools will pop-up and some get obsolete. Enyjoy.
 
-(https://github.com/alecrimi/LLM4all/blob/main/pexels-googledeepmind-18069697.jpg) 
+![](https://github.com/alecrimi/LLM4all/blob/main/pexels-googledeepmind-18069697.jpg) 
 
 ## Applications
 
