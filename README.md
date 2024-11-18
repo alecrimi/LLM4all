@@ -9,27 +9,29 @@ Innovations about this are popping up on a weekly or even daily basis. As it is 
 
 **Build & Auto-optimize**
 
-- [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
+- [dspy](https://github.com/stanfordnlp/dspy) - DSPy is the framework for programming—not prompting—foundation models.
 
 **Orchestration**
 
-- [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts. Mostly focused on text from document extraction.
-- [Haystack](https://github.com/deepset-ai/haystack) - Python framework that allows you to build applications powered by LLMs.
+- [LangChain](https://github.com/hwchase17/langchain) — LangChain is a popular Python/JavaScript library for chaining sequences of language model prompts. Mostly focused on text from document extraction.
+- [Haystack](https://github.com/deepset-ai/haystack) - Haystack is Python framework that allows you to build applications powered by LLMs.
   Mostly focused on vector data representation. 
-- [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
+- [LlamaIndex](https://github.com/jerryjliu/llama_index) — LlamaIndex is a Python library for augmenting LLM apps with data.
+
+- [Cohere](https://cohere.com/) - Cohere is platform offering LLMs for natural language understanding and generation, suitable for building chatbots and text analysis tools.
 
 **Prompt Optimization**
 
-- [AutoPrompt](https://github.com/Eladlev/AutoPrompt) - A framework for prompt tuning using Intent-based Prompt Calibration
-- [PromptFify](https://github.com/promptslab/Promptify) - A library for prompt engineering that simplifies NLP tasks (e.g., NER, classification) using LLMs like GPT.
+- [AutoPrompt](https://github.com/Eladlev/AutoPrompt) - AutoPrompt is a framework for prompt tuning using Intent-based Prompt Calibration
+- [PromptFify](https://github.com/promptslab/Promptify) - PromptFify is a library for prompt engineering that simplifies NLP tasks (e.g., NER, classification) using LLMs like GPT.
 
 ## Pretraining
 
 - [PyTorch](https://pytorch.org/) - PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
 - [TensorFlow](https://www.tensorflow.org/) - TensorFlow is an open source machine learning library developed by Google.
-- [JAX](https://github.com/jax-ml/jax) - Google’s library for high-performance computing and automatic differentiation.
-- [tinygrad](https://github.com/tinygrad/tinygrad) - A minimalistic deep learning library with a focus on simplicity and educational use, created by George Hotz.
-- [micrograd](https://github.com/karpathy/micrograd) - A simple, lightweight autograd engine for educational purposes, created by Andrej Karpathy.
+- [JAX](https://github.com/jax-ml/jax) - JAX is Google’s library for high-performance computing and automatic differentiation.
+- [tinygrad](https://github.com/tinygrad/tinygrad) - tinygrad is a minimalistic deep learning library with a focus on simplicity and educational use, created by George Hotz.
+- [micrograd](https://github.com/karpathy/micrograd) - micrograd is a simple, lightweight autograd engine for educational purposes, created by Andrej Karpathy.
 
 ## Vector databases for RAG
 - [ChromaDB](https://github.com/chroma-core/chroma) 
@@ -46,19 +48,19 @@ Innovations about this are popping up on a weekly or even daily basis. As it is 
 
 ## Serving
 
-- [TorchServe](https://pytorch.org/serve/) - An open-source model serving library developed by AWS and Facebook specifically for PyTorch models, enabling scalable deployment, model versioning, and A/B testing.
+- [TorchServe](https://pytorch.org/serve/) - TorchServe is an open-source model serving library developed by AWS and Facebook specifically for PyTorch models, enabling scalable deployment, model versioning, and A/B testing.
 
-- [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) - A flexible, high-performance serving system for machine learning models, designed for production environments, and optimized for TensorFlow models but also supports other formats.
+- [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) - TensorFlow Serving is a flexible, high-performance serving system for machine learning models, designed for production environments, and optimized for TensorFlow models but also supports other formats.
 
-- [Ray Serve](https://docs.ray.io/en/latest/serve/index.html) - Part of the Ray ecosystem, Ray Serve is a scalable model-serving library that supports deployment of machine learning models across multiple frameworks, with built-in support for Python-based APIs and model pipelines.
+- [Ray Serve](https://docs.ray.io/en/latest/serve/index.html) - Ray Serve is part of the Ray ecosystem, Ray Serve is a scalable model-serving library that supports deployment of machine learning models across multiple frameworks, with built-in support for Python-based APIs and model pipelines.
 
 - [NVIDIA TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM is NVIDIA's compiler for transformer-based models (LLMs), providing state-of-the-art optimizations on NVIDIA GPUs.
  
-- [NVIDIA Triton Inference Server](https://developer.nvidia.com/triton-inference-server) - A high-performance inference server supporting multiple ML/DL frameworks (TensorFlow, PyTorch, ONNX, TensorRT etc.), optimized for NVIDIA GPU deployments, and ideal for both cloud and on-premises serving.
+- [NVIDIA Triton Inference Server](https://developer.nvidia.com/triton-inference-server) - NVIDIA Triton Inference Server is a high-performance inference server supporting multiple ML/DL frameworks (TensorFlow, PyTorch, ONNX, TensorRT etc.), optimized for NVIDIA GPU deployments, and ideal for both cloud and on-premises serving.
 
-- [ollama](https://github.com/ollama/ollama) - A lightweight, extensible framework for building and running large language models on the local machine.
+- [ollama](https://github.com/ollama/ollama) - ollama is a lightweight, extensible framework for building and running large language models on the local machine.
 
-- [llama.cpp](https://github.com/ggerganov/llama.cpp) - A library for running LLMs in pure C/C++. Supported architectures include (LLaMA, Falcon, Mistral, MoEs, phi and more)
+- [llama.cpp](https://github.com/ggerganov/llama.cpp) - llama.cpp is a library for running LLMs in pure C/C++. Supported architectures include (LLaMA, Falcon, Mistral, MoEs, phi and more).
 
 - [TGI](https://github.com/huggingface/text-generation-inference) - HuggingFace's text-generation-inference toolkit for deploying and serving LLMs, built on top of Rust, Python and gRPC.
 
@@ -68,9 +70,25 @@ Innovations about this are popping up on a weekly or even daily basis. As it is 
 
 - [LitServe](https://github.com/Lightning-AI/LitServe) - LitServe is a lightning-fast serving engine for any AI model of any size. Flexible. Easy. Enterprise-scale.
 
+- [ModelDB](https://modeldb.science) - ModelDB provides an accessible location for storing and efficiently retrieving computational neuroscience models.
+
+- [BentoML](https://www.bentoml.com) - BentoML is a flexible framework for serving machine learning models with built-in support for LLMs and easy integration with cloud platforms.
+
+- [Seldon Core](https://www.seldon.io/) - Seldon Core is an open-source platform for deploying machine learning models on Kubernetes, supporting various frameworks including TensorFlow and PyTorch.
+
+## Monitoring and Evaluation Tools
+
+- [LangKit](https://whylabs.ai/langkit) -  LangKit is an advanced tool for monitoring AI models in production, providing telemetry data extraction to detect issues like toxicity and hallucinations.
+
+- [Arize Phoenix](https://phoenix.arize.com) - Arize Phoenix offers observability into LLM applications, enabling debugging, experimentation, and evaluation throughout the development lifecycle.
+
+- [Neptune.ai](https://neptune.ai) - Neptune.ai is a metadata store for MLOps that helps in tracking experiments and monitoring model performance in production.
+
+- [Weights & Biases](https://wandb.ai/site) - Weight & Biases is a tool for tracking experiments, visualizing metrics, and collaborating on machine learning projects, including those involving LLMs.
+
 ## Prompt Management
 
-- [Opik](https://github.com/comet-ml/opik) - Opik is an open-source platform for evaluating, testing and monitoring LLM applications
+- [Opik](https://github.com/comet-ml/opik) - Opik is an open-source platform for evaluating, testing and monitoring LLM applications.
 
 ## Datasets
 
@@ -78,12 +96,16 @@ Use Cases
 
 - [Datasets](https://huggingface.co/docs/datasets/en/index) - A vast collection of ready-to-use datasets for machine learning tasks, including NLP, computer vision, and audio, with tools for easy access, filtering, and preprocessing.
 - [Argilla](https://github.com/argilla-io/argilla) - A UI tool for curating and reviewing datasets for LLM evaluation or training.
-- [distilabel](https://distilabel.argilla.io/latest/) - A library for generating synthetic datasets with LLM APIs or models.
+- [distilabel](https://distilabel.argilla.io/latest) - A library for generating synthetic datasets with LLM APIs or models.
+- [The Pile](https://pile.eleuther.ai) - The Pile is a 825 GiB diverse, open source language modelling data set that consists of 22 smaller, high-quality datasets combined together.
+- [Common Crawl](https://commoncrawl.org) - Common Crawl is a regularly updated web archive that provides a vast amount of text data useful for training LLMs.
+
+- [OpenWebText2](https://openwebtext2.readthedocs.io/en/latest) - OpenWebText2 is an enhanced version of the original OpenWebTextCorpus covering all Reddit submissions from 2005 up until April 2020.
 
 Fine-tuning
 
-- [LLMDataHub](https://github.com/Zjh-819/LLMDataHub) - A quick guide (especially) for trending instruction finetuning datasets
-- [LLM Datasets](https://github.com/mlabonne/llm-datasets) - High-quality datasets, tools, and concepts for LLM fine-tuning.
+- [LLMDataHub](https://github.com/Zjh-819/LLMDataHub) - LLMDataHub is a quick guide (especially) for trending instruction finetuning datasets.
+- [LLM Datasets](https://github.com/mlabonne/llm-datasets) - LLM Datasets is a high-quality datasets, tools, and concepts for LLM fine-tuning.
 
 Pretraining
 
@@ -91,14 +113,14 @@ Pretraining
 
 ## Benchmarks
 
-- [lighteval](https://github.com/huggingface/lighteval) - A library for evaluating local LLMs on major benchmarks and custom tasks.
+- [lighteval](https://github.com/huggingface/lighteval) - lighteval is a library for evaluating local LLMs on major benchmarks and custom tasks.
 
 - [evals](https://github.com/openai/evals) - OpenAI's open sourced evaluation framework for LLMs and systems built with LLMs.
-- [ragas](https://github.com/explodinggradients/ragas) - A library for evaluating and optimizing LLM applications, offering a rich set of eval metrics.
+- [ragas](https://github.com/explodinggradients/ragas) - ragas is a library for evaluating and optimizing LLM applications, offering a rich set of eval metrics.
 
 ## Agents
 
-- [OpenAI Swarms](https://www.crewai.com/open-source) - OpenAI educational project about deploying agents
+- [OpenAI Swarms](https://www.crewai.com/open-source) - OpenAI educational project about deploying agents.
 - [CrewAI](https://www.crewai.com/open-source) -  Build and deploy automated workflows using any LLM and cloud platform. 
 - [Agency Swarm](https://github.com/VRSEN/agency-swarm) - Alternative implementation of swarming AI agents.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open source agents for developers by [AllHands](https://www.all-hands.dev/).
