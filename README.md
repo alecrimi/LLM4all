@@ -38,6 +38,7 @@ Innovations about this are popping up on a weekly or even daily basis. As it is 
 - [Weaviate](https://github.com/weaviate/weaviate)
 - [Qdrant](https://github.com/qdrant)
 - [Milvus](https://github.com/milvus-io/milvus)
+- [PgVector(connector to Postgress)](https://github.com/pgvector/pgvector)
 
 
 ## Fine-tuning
